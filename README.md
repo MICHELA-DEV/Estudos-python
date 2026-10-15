@@ -1,10 +1,10 @@
-# 📊 Estudos de Python & Análise de Dados
+#  Estudos de Python & Análise de Dados
 
 Bem-vindo(a) ao meu repositório de estudos! Este espaço destina-se a registar a minha evolução prática em lógica de programação, manipulação de dados e estatística aplicada à Engenharia de Software e Bioinformática.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 * **Linguagem:** Python 3
 * **Bibliotecas:** Pandas, NumPy, Matplotlib
 * **Ambiente de Desenvolvimento:** VS Code / Jupyter Notebook
@@ -12,7 +12,7 @@ Bem-vindo(a) ao meu repositório de estudos! Este espaço destina-se a registar 
 
 ---
 
-## 📌 Conteúdos do Repositório
+##  Conteúdos do Repositório
 
 Aqui encontrará scripts e cadernos práticos organizados por temas:
 
@@ -22,7 +22,7 @@ Aqui encontrará scripts e cadernos práticos organizados por temas:
 
 ---
 
-## 🎯 Objetivo Profissional
+##  Objetivo Profissional
 Consolidar a base prática em Engenharia de Dados e construção de *pipelines* analíticos para projetos de investigação e aplicações na área da saúde.
 
 ---
